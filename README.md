@@ -23,7 +23,7 @@ Nuestro sitio web emplea las cookies para poder identificar las páginas que son
 
 ###Sobre terceros###
 
-Este sitio web pudiera contener enlaces a otros sitios que pudieran ser de su interés. Una vez que usted ingrese a estos vía los enlaces y abandone nuestra página, no tendremos ningún tipo de control más allá del sitio web, si bien realizaremos nuestros mejores esfuerzos para evitar cualquier tipo de contenido vinculado que le sea perjudicial se entiende que no somos responsables de los términos de uso o privacidad ni de la protección de sus datos en sitios de terceros, por lo cual es recomendable que los consulte para confirmar que usted está de acuerdo con estas.
+Este sitio web puede contener enlaces a sitios de terceros los cuáles Pro-Gramadores hace su mejor esfuerzo de que estos sean de su interés. Una vez que usted ingrese a estos vía los enlaces y abandone nuestra página, no tendremos ningún tipo de control más allá del sitio web, si bien realizaremos nuestros mejores esfuerzos para evitar cualquier tipo de contenido vinculado que le sea perjudicial se entiende que no somos responsables de los términos de uso o privacidad ni de la protección de sus datos en sitios de terceros, por lo cual es recomendable que los consulte para confirmar que usted está de acuerdo con estas.
 
 ##Control de su información personal##
 
